@@ -1,0 +1,5 @@
+F:\C# or C++ Projects\OrderApp\OrderApp.Domain\bin\Debug\OrderApp.Domain.dll
+F:\C# or C++ Projects\OrderApp\OrderApp.Domain\bin\Debug\OrderApp.Domain.pdb
+F:\C# or C++ Projects\OrderApp\OrderApp.Domain\obj\Debug\OrderApp.Domain.csproj.CoreCompileInputs.cache
+F:\C# or C++ Projects\OrderApp\OrderApp.Domain\obj\Debug\OrderApp.Domain.dll
+F:\C# or C++ Projects\OrderApp\OrderApp.Domain\obj\Debug\OrderApp.Domain.pdb
